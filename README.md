@@ -1,6 +1,6 @@
 🚀 **Software Engineer | AI Enthusiast**  
 
-I'm a **software engineer** with a deep interest in the intersection of **artificial intelligence and software development**. With expertise in **JavaScript, TypeScript, Next.js, Angular, NestJS, and Express.js**, I love building scalable applications and exploring how AI can enhance software solutions.
+I'm a **software engineer** with a deep interest in the intersection of **artificial intelligence and software development**. With expertise in **JavaScript, TypeScript, Next.js, Angular, NestJS, and Express.js**, I love building scalable applications and exploring how AI can enhance software solutions. Contact me @ rhodaivioje@gmail.com
 
 ## 🔥 What I Do  
 - 💻 **Full-Stack Development** – Creating high-performance web applications.  
