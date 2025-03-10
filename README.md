@@ -8,7 +8,7 @@ I'm a passionate **software engineer** with a deep interest in the intersection 
 - 📈 **Tech Research & Writing** – Exploring CS concepts and sharing insights.  
 - 🌍 **Open to Collaboration** – Looking for exciting projects and teams!  
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivioje&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivioje&show_icons=true&theme=dark&count_private=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ivioje&theme=dark)
 
