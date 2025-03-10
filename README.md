@@ -12,5 +12,3 @@ I'm a passionate **software engineer** with a deep interest in the intersection 
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ivioje&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ivioje&layout=compact&theme=dark)
-
