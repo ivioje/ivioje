@@ -6,7 +6,7 @@ I'm a **software engineer** with a deep interest in the intersection of **artifi
 - 💻 **Full-Stack Development** – Creating high-performance web applications.  
 - 🤖 **Machine Learning** – Exploring the integration of ML models into web applications.  
 - 📈 **Tech Research & Writing** – Exploring CS concepts and sharing insights.  
-- 🌍 **Open to Collaboration** – Looking for exciting projects and teams!  
+- 🌍 **Open Source Contribution** – Contributing to blockchain and web development projects with code, documentation, and issue resolution. 
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ivioje&show_icons=true&theme=dark)
 
