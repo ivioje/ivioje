@@ -9,5 +9,3 @@ I'm a **software engineer** with a deep interest in the intersection of **artifi
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ivioje&show_icons=true&theme=dark)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ivioje&theme=dark)
-
